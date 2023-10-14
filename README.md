@@ -19,44 +19,39 @@ Our IoT project aims to create innovative solutions in the field of IoT, embedde
 
 ## How to Contribute
 
-To contribute to our project, follow these steps:
-
-1. Fork this repository to your GitHub account.
-2. Clone the forked repository to your local machine.
-
-
-bash
+<details>
+<summary>How to Contribute</summary>
+Fork this repository to your GitHub account.
 
 
+```bash
 git clone https://github.com/your-username/iot-project.git
-
-
+Copy code
 Create a new branch for your feature or bug fix.
 
 
-bash
-
+```bash
 git checkout -b feature/your-feature-name
+Copy code
 Make your changes, add your code, and commit your work.
 
 
-bash
-
+```bash
 git add .
 git commit -m "Add a new feature or fix a bug"
+Copy code
 Push your changes to your forked repository.
 
 
-bash
-
-
+```bash
 git push origin feature/your-feature-name
-
-
+Copy code
+```
 Create a Pull Request (PR) from your forked repository to our main repository. In your PR description, provide a clear and concise explanation of your changes.
 
-
 Wait for feedback and approval. Our maintainers will review your PR, suggest improvements, and merge it if it aligns with our project's goals.
+
+</details>
 Community Guidelines
 Follow our Code of Conduct.
 Respect other contributors and maintainers.
